@@ -5,11 +5,11 @@ A python module that can copy text to clipboard or paste text from clipboard to 
 
 run 
 
-    ```
-    cd clipy/
-    chmod +x install_setup.sh
-    ./install_setup.sh
-    ``` 
+```
+cd clipy/
+chmod +x install_setup.sh
+./install_setup.sh
+``` 
     
 from your bash terminal (linux and system-wide only for now)
 
