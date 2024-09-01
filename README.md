@@ -6,6 +6,7 @@ A python module that can copy text to clipboard or paste text from clipboard to 
 run 
 
 ```
+git clone git@github.com:JUANITOss/clipy.git
 cd clipy/
 chmod +x install_setup.sh
 ./install_setup.sh
