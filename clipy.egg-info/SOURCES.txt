@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+clipy/__init__.py
+clipy/clipy.py
+clipy.egg-info/PKG-INFO
+clipy.egg-info/SOURCES.txt
+clipy.egg-info/dependency_links.txt
+clipy.egg-info/top_level.txt

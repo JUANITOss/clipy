@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: clipy
+Version: 0.1
+Summary: A utility module for copying to and pasting from the clipboard using xclip.
+Author: Juan Suazo
+Author-email: 0juansuazo0@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE
