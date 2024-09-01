@@ -1,10 +1,8 @@
-# setup.py
-
 from setuptools import setup, find_packages
 
 setup(
     name='clipy',
-    version='0.1',
+    version='0.2',
     packages=find_packages(),
     description='A utility module for copying to and pasting from the clipboard using xclip.',
     author='Juan Suazo',
@@ -12,7 +10,7 @@ setup(
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
-        'Operating System :: OS Independent',
+        'Operating System :: POSIX :: Linux',
     ],
     python_requires='>=3.6',
 )
