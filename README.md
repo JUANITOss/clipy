@@ -3,5 +3,5 @@ A python module that can copy text to clipboard or paste text from clipboard to 
 
 ## To use it...
 
-run ```sudo python3 setup.py install``` from your bash terminal (linux)
+run ```sudo python3 setup.py install``` from your bash terminal (linux and system-wide)
 
